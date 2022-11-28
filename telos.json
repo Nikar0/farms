@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tlos-zap-zappy",
+    "name": "TLOS-ZAP LP",
+    "token": "TLOS-ZAP LP",
+    "tokenAddress": "0x774d427B2105849A0FBb6f49c432C087E3607F6F",
+    "tokenDecimals": 18,
+    "tokenProviderId": "zappy",
+    "earnedToken": "Xp-TLOS-ZAP",
+    "earnedTokenAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
+    "earnContractAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
+    "oracle": "lps",
+    "oracleId": "tlos-zap-zappy",
+    "status": "eol",
+    "platformId": "zappy",
+    "retireReason": "",
+    "assets": ["TLOS", "ZAP"],
+    "strategyTypeId": "lp",
+    "callFee": 0.25,
+    "addLiquidityUrl": "",
+    "buyTokenUrl": "",
+    "network": "telos",
+    "risks": [
+      "BATTLE_TESTED",
+      "IL_LOW",
+      "AUDIT",
+      "CONTRACTS_VERIFIED"
+    ],
+    "createdAt": 1631279357
+  }
+]
