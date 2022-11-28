@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tlos-zap-zappy",
+    "poolId": "zappy-telos-0",
+    "name": "Xpand",
+    "logo": "fantom/Guqin Qi 2.png",
+    "earnedToken": "mooFantomBIFI",
+    "earnedTokenDecimals": 18,
+    "earnedTokenAddress": "0xbF07093ccd6adFC3dEB259C557b61E94c1F66945",
+    "earnContractAddress": "0x0eEeefE7e7f5361b7410f9e50FD1B329b81896b7",
+    "earnedOracle": "tokens",
+    "earnedOracleId": "TelosXpand",
+    "partnership": true,
+    "status": "active",
+    "isMooStaked": true,
+    "partners": ["beefy"]
+  }
+]
