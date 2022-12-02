@@ -1,20 +1,19 @@
 [
   {
-    "id": "tlos-zap-zappy",
-    "name": "TLOS-ZAP LP",
-    "token": "TLOS-ZAP LP",
+    "id": "zappy-zap-tlos",
+    "name": "ZAP-TLOS LP",
+    "token": "ZAP-TLOS LP",
     "tokenAddress": "0x774d427B2105849A0FBb6f49c432C087E3607F6F",
     "tokenDecimals": 18,
     "tokenProviderId": "zappy",
-    "earnedToken": "Xp-TLOS-ZAP",
+    "earnedToken": "XpZ-ZAP-TLOS",
     "earnedTokenAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "earnContractAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "oracle": "lps",
-    "oracleId": "tlos-zap-zappy",
-    "status": "eol",
+    "oracleId": "zappy-zap-tlos",
+    "status": "active",
     "platformId": "zappy",
-    "retireReason": "",
-    "assets": ["TLOS", "ZAP"],
+    "assets": ["ZAP", "WTLOS"],
     "strategyTypeId": "lp",
     "callFee": 0.25,
     "addLiquidityUrl": "",
@@ -26,6 +25,6 @@
       "AUDIT",
       "CONTRACTS_VERIFIED"
     ],
-    "createdAt": 1631279357
+    "createdAt": 245848361,
   }
 ]
