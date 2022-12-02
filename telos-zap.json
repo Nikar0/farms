@@ -1,6 +1,6 @@
 [
     {
-      id: 'tlos-zap-telos',
+      id: 'zappy-zap-tlos',
       name: 'ZAP-TLOS LP',
       token: 'ZAP-TLOS LP',
       tokenDescription: 'Zappy',
@@ -8,12 +8,12 @@
       tokenDecimals: 18,
       tokenDescriptionUrl: '#',
       earnedToken: 'Xp-ZAP-TLOS',
-      earnedTokenAddress: '0xBA809e44417fBa0ef421C64bDb1a4Ce0F6a9D2Bc',
-      earnContractAddress: '0xBA809e44417fBa0ef421C64bDb1a4Ce0F6a9D2Bc',
+      earnedTokenAddress: '0x198cA485F3E75964313154A1f964C1c408B26901',
+      earnContractAddress: '0x198cA485F3E75964313154A1f964C1c408B26901',
       pricePerFullShare: 1,
       tvl: 0,
       oracle: 'lps',
-      oracleId: 'zap-tlos-telos',
+      oracleId: 'zappy-zap-tlos',
       oraclePrice: 0,
       depositsPaused: false,
       status: 'active',
@@ -30,6 +30,6 @@
         'https://www.zappy.finance/liquidity/pool?main=0x9a271e3748f59222f5581bae2540daa5806b3f77&base=tlos',
       buyTokenUrl:
         'https://www.zappy.finance/swap',
-      createdAt: 244796466,
+      createdAt: 245848361,
     }
   ]
