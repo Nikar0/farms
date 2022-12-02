@@ -13,7 +13,7 @@
     "oracleId": "zappy-zap-tlos",
     "status": "active",
     "platformId": "zappy",
-    "assets": ["ZAP", "WTLOS"],
+    "assets": ["ZAP", "TLOS"],
     "strategyTypeId": "lp",
     "callFee": 0.25,
     "addLiquidityUrl": "",
