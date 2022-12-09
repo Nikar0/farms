@@ -1,33 +1,26 @@
 [
-    {
-      id: 'tlos-zap-telos',
-      name: 'ZAP-TLOS LP',
-      token: 'ZAP-TLOS LP',
-      tokenDescription: 'Zappy',
-      tokenAddress: '0x774d427B2105849A0FBb6f49c432C087E3607F6F',
-      tokenDecimals: 18,
-      tokenProviderId: 'Zappy',
-      earnedToken: 'Xp-ZAP-TLOS',
-      earnedTokenAddress: '0x198cA485F3E75964313154A1f964C1c408B26901',
-      earnContractAddress: '0x198cA485F3E75964313154A1f964C1c408B26901',
-      oracle: 'lps',
-      oracleId: 'zap-tlos-telos',
-      status: 'active',
-      platformId: 'Zappy',
-      assets: ['ZAP', 'TLOS'],
-      strategyTypeId: 'StratLP',
-      risks: [
-        'COMPLEXITY_LOW',
-        'BATTLE_TESTED',
-        'AUDIT',
-        'CONTRACTS_VERIFIED',
-      ],
-      
-      addLiquidityUrl:
-        'https://www.zappy.finance/liquidity/pool?main=0x9a271e3748f59222f5581bae2540daa5806b3f77&base=tlos',
-      buyTokenUrl:
-        'https://www.zappy.finance/swap',
-      createdAt: 245848361,
-    }
-  ]
+  {
+    "id": "tlos-zap-telos",
+    "name": "ZAP-TLOS LP",
+    "token": "ZAP-TLOS LP",
+    "tokenDescription": "Zappy",
+    "tokenAddress": "0x774d427B2105849A0FBb6f49c432C087E3607F6F",
+    "tokenDecimals": 18,
+    "tokenProviderId": "Zappy",
+    "earnedToken": "Xp-ZAP-TLOS",
+    "earnedTokenAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
+    "earnContractAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
+    "oracle": "lps",
+    "oracleId": "zap-tlos-telos",
+    "status": "active",
+    "platformId": "Zappy",
+    "assets": ["ZAP", "TLOS"],
+    "strategyTypeId": "StratLP",
+    "risks": ["COMPLEXITY_LOW", "BATTLE_TESTED", "AUDIT", "CONTRACTS_VERIFIED"],
+
+    "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0x9a271e3748f59222f5581bae2540daa5806b3f77&base=tlos",
+    "buyTokenUrl": "https://www.zappy.finance/swap",
+    "createdAt": 245848361
+  }
+]
 
