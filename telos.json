@@ -32,7 +32,7 @@
     "earnedTokenAddress": "0xbcaCFA3635EAb5e312530D88d90a302b52C366b3",
     "earnContractAddress": "0xbcaCFA3635EAb5e312530D88d90a302b52C366b3",
     "oracle": "lps",
-    "oracleId": "zappy-usdc-telos",
+    "oracleId": "zappy-usdc-tlos",
     "status": "active",
     "platformId": "Zappy",
     "assets": ["USDC", "WTLOS"],
@@ -44,7 +44,7 @@
     "createdAt": 245869766
   },
   {
-    "id": "zappy-zap-telos",
+    "id": "zappy-zap-tlos",
     "name":"ZAP-wTLOS LP",
     "token":"ZAP-wTLOS LP (ZAPPY)",
     "tokenAddress": "0x774d427B2105849A0FBb6f49c432C087E3607F6F",
@@ -54,7 +54,7 @@
     "earnedTokenAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "earnContractAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "oracle": "lps",
-    "oracleId": "zappy-zap-telos",
+    "oracleId": "zappy-zap-tels",
     "status": "active",
     "platformId": "Zappy",
     "assets": ["ZAP", "WTLOS"],
