@@ -54,7 +54,7 @@
     "earnedTokenAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "earnContractAddress": "0x198cA485F3E75964313154A1f964C1c408B26901",
     "oracle": "lps",
-    "oracleId": "zappy-zap-tels",
+    "oracleId": "zappy-zap-tlos",
     "status": "active",
     "platformId": "Zappy",
     "assets": ["ZAP", "WTLOS"],
