@@ -82,7 +82,7 @@
     "assets": ["WETH", "TLOS"],
     "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -111,7 +111,7 @@
       "assets": ["USDT", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -140,7 +140,7 @@
       "assets": ["WBTC", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -157,19 +157,19 @@
       "name": "BNB-TLOS LP",
       "token": "BNB-TLOS LP (ZAPPY)",
       "tokenAddress": "0x65980727179035C6A10dC5d79057B842e893627c",
-      "tokenDecimals: 18,
+      "tokenDecimals": 18,
       "tokenProviderId":"Zappy",
       "earnedToken": "XpZ-BNB-wTLOS",
       "earnedTokenAddress": "0xCDd6e6D3Ab4A8DF585d6d7c0CCEe9c3788Afca43",
       "earnContractAddress": "0xCDd6e6D3Ab4A8DF585d6d7c0CCEe9c3788Afca43",
-      "oracle": "lps',
+      "oracle": "lps",
       "oracleId": "zappy-bnb-tlos",
       "status": "active",
       "platform": "Zappy",
       "assets": ["BNB", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -182,23 +182,23 @@
       "createdAt": 251744964
     },
     {
-      "id": "appy-ftm-tlos",
+      "id": "zappy-ftm-tlos",
       "name": "FTM-TLOS LP",
       "token": "FTM-TLOS LP (ZAPPY)",
       "tokenAddress": "0x62514Ad55D9fbb7eA66a915a1A1E11872F5FAA90",
       "tokenDecimals": 18,
       "tokenProviderId": "Zappy",
       "earnedToken": "XpZ-FTM-wTLOS",
-      "earnedTokenAddress": "0xe5311e79b3e628cFf6f9eEF09D524D533E66E3b1',
-      "earnContractAddress": "0xe5311e79b3e628cFf6f9eEF09D524D533E66E3b1',
-      "oracle": "lps',
+      "earnedTokenAddress": "0xe5311e79b3e628cFf6f9eEF09D524D533E66E3b1",
+      "earnContractAddress": "0xe5311e79b3e628cFf6f9eEF09D524D533E66E3b1",
+      "oracle": "lps",
       "oracleId": "zappy-ftm-tlos",
       "status": "active",
       "platform": "Zappy",
       "assets": ["FTM", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -227,7 +227,7 @@
       "assets": ["MATIC", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
@@ -256,7 +256,7 @@
       "assets": ["AVAX", "TLOS"],
       "risks": [
         "COMPLEXITY_LOW",
-        "BATTLE_TESTED".
+        "BATTLE_TESTED",
         "AUDIT",
         "CONTRACTS_VERIFIED",
       ],
