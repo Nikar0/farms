@@ -1,0 +1,20 @@
+declare const chainIdMap: {
+    bsc: number;
+    heco: number;
+    avax: number;
+    fantom: number;
+    polygon: number;
+    one: number;
+    arbitrum: number;
+    celo: number;
+    moonriver: number;
+    cronos: number;
+    aurora: number;
+    fuse: number;
+    metis: number;
+    moonbeam: number;
+    sys: number;
+    emerald: number;
+    telos: number;
+};
+export default chainIdMap;
