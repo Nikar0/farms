@@ -85,7 +85,7 @@
     "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0xfa9343c3897324496a05fc75abed6bac29f8a40f&base=tlos",
     "buyTokenUrl": "https://www.zappy.finance/swap",
     "network": "telos",
-    "createdAt": 	254497696
+    "createdAt": 254497696
   },
   {
     "id": "zappy-usdt-tlos",
