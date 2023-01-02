@@ -230,7 +230,7 @@
     "earnedTokenAddress": "0xe6A7CA5a08Af39Cf2330394Acd239A9Edefe1540",
     "earnContractAddress": "0xe6A7CA5a08Af39Cf2330394Acd239A9Edefe1540",
     "oracle": "tokens",
-    "oracleId": "zap",
+    "oracleId": "zappy",
     "status": "active",
     "platformId": "zappy",
     "assets": ["ZAP"],
