@@ -221,7 +221,7 @@
   },
   {
     "id": "zappy-zap",
-    "name": "Zap Single",
+    "name": "Zap Single Stake",
     "token": "Zap Single (ZAPPY)",
     "tokenAddress": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
     "tokenDecimals": 18,
@@ -230,7 +230,7 @@
     "earnedTokenAddress": "0xe6A7CA5a08Af39Cf2330394Acd239A9Edefe1540",
     "earnContractAddress": "0xe6A7CA5a08Af39Cf2330394Acd239A9Edefe1540",
     "oracle": "tokens",
-    "oracleId": "zappy",
+    "oracleId": "zappy-zap",
     "status": "active",
     "platformId": "zappy",
     "assets": ["ZAP"],
