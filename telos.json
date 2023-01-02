@@ -218,5 +218,27 @@
     "buyTokenUrl": "https://www.zappy.finance/swap",
     "network": "telos",
     "createdAt": 254506657
+  },
+  {
+    "id": "zappy-zap",
+    "name": "Zap Single",
+    "token": "Zap Single (ZAPPY)",
+    "tokenAddress": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
+    "tokenDecimals": 18,
+    "tokenProviderId": "zappy",
+    "earnedToken": "XpZ-ZAP",
+    "earnedTokenAddress": "0xA3499d2099880E20c4d78537B1EC032fC7460457",
+    "earnContractAddress": "0xA3499d2099880E20c4d78537B1EC032fC7460457",
+    "oracle": "tokens",
+    "oracleId": "zappy-zap",
+    "status": "active",
+    "platformId": "zappy",
+    "assets": ["ZAP"],
+    "risks": ["COMPLEXITY_LOW", "BATTLE_TESTED", "AUDIT", "CONTRACTS_VERIFIED"],
+    "stratTypeId": "SingleStake",
+    "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0x7c598c96d02398d89fbcb9d41eab3df0c16f227d&base=tlos",
+    "buyTokenUrl": "https://www.zappy.finance/swap",
+    "network": "telos",
+    "createdAt": 254743081
   }
 ]
